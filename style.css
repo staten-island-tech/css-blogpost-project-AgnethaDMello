@@ -1,8 +1,27 @@
 body {
     background-color: #8fbc8f;
-    color: rgb(65, 105, 225);
-    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
 }
 #main-header{
     color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 0px auto;
+    background-color: rgb(255, 235, 205);
+    padding: 40px;
+    border: groove rgb(0, 0, 0) 5px;
+}
+.posts{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+#Humans{
+    text-align: left;
+    background-image: url();
+}
+#Animals{
+    text-align: center;
+}
+#Objects{
+    text-align: right;
 }
