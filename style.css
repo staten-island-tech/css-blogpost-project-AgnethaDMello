@@ -18,25 +18,10 @@ body {
 }
 #Humans{
     text-align: left;
-    background-image: url(img/Chatsworth-1838-Wallcoverings_0005_1602-106-01.webp);
-    background-position: center;
-    padding: 300px;
-    margin-left: 0px;
-    margin-right: 1300px;
 }
 #Animals{
     text-align: center;
-    background-image: url(img/Pretty_Flower_Antique_Cream_Laura_Felicity_The_Pattern_Collective-01_1800x1800.webp);
-    padding: 300px;
-    margin-left: 650px;
-    margin-right: 650px;
-    margin-top: -867.5px;
 }
 #Objects{
     text-align: right;
-    background-image: url(img/home-design.jpg);
-    padding: 300px;
-    margin-left: 1300px;
-    margin-right: 20px;
-    margin-top: -867.5px;
 }
