@@ -1,5 +1,5 @@
 body {
-    background-color: #8fbc8f;
+    background-color: #dbf0be;
     color: rgb(0, 0, 0);
     font-size: 70px;
     font-family: 'Italianno', cursive;
@@ -14,14 +14,34 @@ body {
 }
 .posts{
     color: rgb(0, 0, 0);
-    font-size: 80px;
-}
-#Humans{
-    text-align: left;
-}
-#Animals{
+    font-size: 50px;
+    padding: 30px;
+    position:relative;
     text-align: center;
 }
+.post-title{
+   
+}
+#Humans{
+    
+    background-image: url(img/1.webp);
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-right: 1300px;
+}
+#Animals{
+
+    background-image: url(img/2.jpg);
+    padding: 300px;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: -707.5px;
+}
 #Objects{
-    text-align: right;
+    
+    background-image: url(img/3.webp);
+    padding: 300px;
+    margin-left: 1300px;
+    margin-right: 20px;
+    margin-top: -947.5px;
 }
