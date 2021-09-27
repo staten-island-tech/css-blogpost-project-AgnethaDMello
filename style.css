@@ -32,7 +32,6 @@ body {
 #Animals{
 
     background-image: url(img/2.jpg);
-    padding: 300px;
     margin-left: 650px;
     margin-right: 650px;
     margin-top: -707.5px;
@@ -40,8 +39,7 @@ body {
 #Objects{
     
     background-image: url(img/3.webp);
-    padding: 300px;
     margin-left: 1300px;
     margin-right: 20px;
-    margin-top: -947.5px;
+    margin-top: -706px;
 }
